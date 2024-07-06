@@ -1,15 +1,22 @@
-# Socket Stories - Interview Prep WebApp
-Simple website with basic functionality such as JWT authentication, create/retrieve/update/delete
-posts and comments.
+# Socket Stories
 
-![react-proj-480](https://user-images.githubusercontent.com/92530084/180834501-d0e70e96-9659-42f0-971b-421b3627886a.gif)
+A simple interview experiences application with basic functionality such as JWT authentication, and the ability to create, retrieve, update, and delete posts and comments.
+
+[![Watch Video](https://github.com/mitupatil18/spring-web/assets/117500694/6169be05-4bb5-4c57-9c73-1c64d3ed8797)](https://drive.google.com/file/d/1eqKfEmFsQ1Enlc4qKTRBugcErvNgK0wj/view?usp=sharing)
 
 ## Installation
-Clone this project
 
-## Running application
+1. Download the source code as a `zip` file.
+2. Unzip the archive and navigate to the project folder.
+3. Run `npm install` to install all required dependencies.
 
-To start application run `npm start` command, it will start application and
-open main window [http://localhost:3000](http://localhost:3000) in the browser. 
-Create new user or login with any author full name password: `password`, administrator
-username: `admin` password: `admin`.
+## Running the Application
+
+To start the application, run `npm start` from the project directory. This command will launch the app and open the main window in your browser at [http://localhost:3000](http://localhost:3000).
+
+### Demo Credentials
+
+- **User Login:** Use any author full name with the password `password`.
+- **Administrator Login:** Username: `admin`, Password: `admin`.
+
+The application is pre-populated with demo data and users upon startup.
