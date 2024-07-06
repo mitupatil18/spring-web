@@ -4,6 +4,15 @@ A simple interview experiences application with basic functionality such as JWT 
 
 [![Watch Video](https://github.com/mitupatil18/spring-web/assets/117500694/6169be05-4bb5-4c57-9c73-1c64d3ed8797)](https://drive.google.com/file/d/1eqKfEmFsQ1Enlc4qKTRBugcErvNgK0wj/view?usp=sharing)
 
+### Admin Overview
+
+ [Watch the Feature Overview Video](https://drive.google.com/file/d/1eqKfEmFsQ1Enlc4qKTRBugcErvNgK0wj/view)
+
+### User Experience
+
+ [Watch the User Experience Video](https://drive.google.com/file/d/1jU6hsDUVEWZcbx3bFlqY8lOInq-Y_Md_/view)
+
+
 ## Installation
 
 1. Download the source code as a `zip` file.
