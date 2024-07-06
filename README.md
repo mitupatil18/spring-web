@@ -3,6 +3,9 @@
 A simple interview experiences application with basic functionality such as JWT authentication, and the ability to create, retrieve, update, and delete posts and comments.
 
 [![Watch Video](https://github.com/mitupatil18/spring-web/assets/117500694/6169be05-4bb5-4c57-9c73-1c64d3ed8797)](https://drive.google.com/file/d/1eqKfEmFsQ1Enlc4qKTRBugcErvNgK0wj/view?usp=sharing)
+![image](https://github.com/mitupatil18/spring-web/assets/117500694/168fa0bc-5de0-445a-bab8-415f8a58e6d1)
+![image](https://github.com/mitupatil18/spring-web/assets/117500694/7436b940-e1af-4d53-b868-49906508f60f)
+
 
 ### Admin Overview
 
