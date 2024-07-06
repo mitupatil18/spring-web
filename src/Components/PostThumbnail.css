@@ -1,0 +1,28 @@
+.thumbnail {
+    text-decoration: none;
+  }
+  
+  .boxShadow {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .bg-primary-light {
+    background-color: #f8f9fa; /* Light gray */
+  }
+  
+  .text-primary-dark {
+    color: #343a40; /* Dark gray */
+  }
+  
+  .text-secondary {
+    color: #6c757d; /* Medium gray */
+  }
+  
+  .bg-accent {
+    background-color: #007bff; /* Bootstrap primary blue */
+  }
+  
+  .bg-accent-light {
+    background-color: #e9ecef; /* Light gray */
+  }
+  
